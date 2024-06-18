@@ -13,6 +13,7 @@ import java.util.List;
 @RequestMapping("/categorias")
 public class CategoriaResource {
 
+
     @Autowired
     private CategoriaRepository categoriaRepository;
 
